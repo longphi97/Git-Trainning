@@ -1,3 +1,7 @@
 Content C1
 
+<<<<<<< HEAD
 Fix By Master
+=======
+Fix BY Beta
+>>>>>>> beta
